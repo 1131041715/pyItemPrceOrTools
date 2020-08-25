@@ -106,3 +106,6 @@ function changeCircle() {
     isCircle = true;
     clock.style.transform = "rotate(90deg)";
 }
+
+var testDate = new Date()
+console.dir(new Date);
